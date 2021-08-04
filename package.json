@@ -19,5 +19,8 @@
   "homepage": "https://github.com/mtribone/mtribone.design#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1"
+  },
+  "dependencies": {
+    "milligram": "^1.4.1"
   }
 }
